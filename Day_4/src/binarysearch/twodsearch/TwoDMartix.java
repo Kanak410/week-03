@@ -37,6 +37,6 @@ public class TwoDMartix {
             boolean result = searchMatrix(matrix, target);
             System.out.println("Target " + target + " found: " + result);
         }
-    
+
 
 }
