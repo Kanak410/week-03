@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Main {
+    private static targetsearch.Linear Linear;
+
     public static void main(String[] args) {
         int datasize[]={ 1000,10000,1000000};
         int t=7;
